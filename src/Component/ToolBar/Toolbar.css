@@ -1,0 +1,8 @@
+.top{
+    position: fixed;
+    bottom: 0;
+    padding-left: 1rem;
+    width: 23.4rem;
+    height: 5.25rem;
+box-shadow: .75rem 0 0 rgba(25, 17, 121, 0.1) ;
+}

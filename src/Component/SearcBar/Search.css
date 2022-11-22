@@ -1,0 +1,20 @@
+.Searchmain{
+    width: 21rem;
+    height: 6.5rem;
+    margin-left: 1.25rem;
+    margin-top: 2.5rem;
+
+}
+
+.Searchheading{
+   height: 3.25rem;
+color: rgba(106, 106, 139, 1);
+margin: 0;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+}

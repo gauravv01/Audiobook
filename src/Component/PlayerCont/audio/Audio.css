@@ -1,0 +1,21 @@
+.audio{
+    height: 8rem;
+}
+
+.player{
+    width: 20rem;
+    height: 5rem;
+}
+
+.bookmark{
+    height: 3rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.button{
+    height: 1.5rem;
+    margin: 0;
+    margin-right: 0.5rem;
+}
